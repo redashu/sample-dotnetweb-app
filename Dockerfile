@@ -4,6 +4,7 @@ FROM redhat/ubi8
 LABEL name=ashutoshh
 LABEL email=ashutoshh@linux.com
 
+# new change
 RUN dnf install dotnet-sdk-8.0 -y  
 RUN mkdir /ashuapp 
 # uses to run any command during docker build time
