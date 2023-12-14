@@ -1,3 +1,3 @@
 # sample-dotnetweb-app
 
-### random changes for testing 
+### random changes for testing  with docker hub push
